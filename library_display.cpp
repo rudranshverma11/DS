@@ -8,27 +8,27 @@ int main()
     string title1,title2,title3;
 
 //book1
-    cout<<"Enter the book1 id: ";
+    cout<<"Enter the book 1  id : ";
     cin>>id1;
     
     cin.ignore();
-    cout<<"Enter the book1 title: ";
+    cout<<"Enter the book 1 title : ";
     getline(cin,title1);
 
 //book2
-    cout<<"Enter the book2 id: ";
+    cout<<"Enter the book 2 id : ";
     cin>>id2;
 
     cin.ignore();
-    cout<<"Enter the book2 title: ";
+    cout<<"Enter the book 2 title : ";
     getline(cin,title2);
 
 //book3
-    cout<<"Enter the book3 id: ";
+    cout<<"Enter the book 3 id : ";
     cin>>id3;
 
     cin.ignore();
-    cout<<"Enter the book3 title: ";    
+    cout<<"Enter the book 3 title : ";    
     getline(cin,title3);
 
 // display books
